@@ -4,6 +4,3 @@ this is my first repo
 2
 this is my second change
 w
-e
-r
-e
